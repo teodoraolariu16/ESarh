@@ -2,4 +2,4 @@
 
 | Name | Email | Field of Study | Year of study |
 | ---- | ----- | ---- | ---- |
-| Example | `example@gmail.com` | QUANTUM | II |
+| Olariu Teodora | teodora.olariu@ulbsibiu.ro | Electronica aplicata | completed |
